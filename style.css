@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: darksalmon;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.container {
+    background-color:cadetblue;
+}
+
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+#marqueestyle {
+    background-color:black;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+
+#map iframe {
+    width: 100%;
+}
+
+#myCarousel{
+    width: 100%;
+}
+a {
+    font-size: 20px;
+    color: darkblue;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
